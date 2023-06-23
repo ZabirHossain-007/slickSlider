@@ -1,0 +1,27 @@
+.cTitle{
+  padding: 20px;
+  background-color: cadetblue;
+
+}
+.demoImage{
+  margin: 6px;
+  padding: 10px;
+  border: 3px solid yellow;
+}
+.demoImage2{
+  margin: 0 5px;
+  padding: 10px;
+  border: 2px solid red;
+  outline: 3px solid black;
+}
+.demoImage3{
+  margin: 0 5px;
+  padding: 10px;
+  height: 600px;
+}
+.centralSlide{
+  background-color: yellow;
+}
+.lazySlide{
+  background-color: transparent;
+}
